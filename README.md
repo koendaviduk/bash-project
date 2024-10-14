@@ -10,5 +10,9 @@
 - The above example will create an output file located at outputfile.txt, and combine the data from file1 and file2 into that output text file.
 
 
+# Commands
+- ./project.bash -h
+- This command displays the usage and any other information you may need
+
 I've included 2 test scripts with data, file1.txt and file2.txt for your use. 
 Reminder: You will have to specify and output location, and in most cases, this will create a new file with that name if it doesn't already exist.
