@@ -1,6 +1,6 @@
 ## Purpose and use
 - This script is able to compile as many text files as you wish, and combine all the information of those files into one file.
-- The script clears and/or creates an output file for all of the data to be pushed to.
+- The script clears and creates an output file for all of the data to be pushed to.
 
 ## Syntax
 - In order to utilize the command properly, you must include a target file for the output, and atleast 1 other file for the input.
