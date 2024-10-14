@@ -8,6 +8,7 @@
 - output_file can be whatever name you choose. All files must include the .txt extension however, if that's what you wish to push the data into.
 - Example: ./project.bash outputfile.txt file1.txt file2.txt
 - The above example will create an output file located at outputfile.txt, and combine the data from file1 and file2 into that output text file.
+- The reason I did not have options for the user to input their files into, such as "Please enter output file" or "input file:" is because it made the script more simplistic and more straightforward. This accomplishes the task at a quicker rate, which helps teams or people complete their tasks quicker. Having one line to input into the script terminal reduces the work time.
 
 
 # Commands
